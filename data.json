@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "ravi",
+        "age" : 23,
+        "gender" :"male"
+    },
+    {
+        "name" : "dhanush",
+        "age" : 24,
+        "gender" :"male"
+    },
+    {
+        "name" : "hari",
+        "age" : 22,
+        "gender" :"male"
+    },
+    {
+        "name" : "raghu",
+        "age" : 25,
+        "gender" :"male"
+    },
+    {
+        "name" : "sunil",
+        "age" : 22,
+        "gender" :"male"
+    },
+    {
+        "name" : "manikanta",
+        "age" : 26,
+        "gender" :"male"
+    }
+]
